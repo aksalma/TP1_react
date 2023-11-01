@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tp1-react/static/css/main.073c9b0a.css",
-    "main.js": "/Tp1-react/static/js/main.0380886a.js",
-    "static/js/787.d7f91908.chunk.js": "/Tp1-react/static/js/787.d7f91908.chunk.js",
-    "static/media/logo.svg": "/Tp1-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Tp1-react/index.html",
-    "main.073c9b0a.css.map": "/Tp1-react/static/css/main.073c9b0a.css.map",
-    "main.0380886a.js.map": "/Tp1-react/static/js/main.0380886a.js.map",
-    "787.d7f91908.chunk.js.map": "/Tp1-react/static/js/787.d7f91908.chunk.js.map"
+    "main.css": "/TP1_react/static/css/main.073c9b0a.css",
+    "main.js": "/TP1_react/static/js/main.2841b3de.js",
+    "static/js/787.d7f91908.chunk.js": "/TP1_react/static/js/787.d7f91908.chunk.js",
+    "static/media/logo.svg": "/TP1_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TP1_react/index.html",
+    "main.073c9b0a.css.map": "/TP1_react/static/css/main.073c9b0a.css.map",
+    "main.2841b3de.js.map": "/TP1_react/static/js/main.2841b3de.js.map",
+    "787.d7f91908.chunk.js.map": "/TP1_react/static/js/787.d7f91908.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0380886a.js"
+    "static/js/main.2841b3de.js"
   ]
 }
